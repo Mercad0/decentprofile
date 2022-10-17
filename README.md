@@ -1,3 +1,5 @@
+## try it yourself here ---> https://Mercad0.github.io/decentprofile
+
 # Conditional Profile Card
 
 Note: Make sure that you have node.js installed in your computer by typing in your terminal:
