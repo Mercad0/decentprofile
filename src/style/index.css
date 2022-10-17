@@ -49,7 +49,8 @@
 }
 .widget h1,
 .widget h2,
-.widget h3 {
+.widget h3,
+.widget p {
   display: block;
   margin: 10px 0;
   text-align: center;
@@ -70,7 +71,7 @@
   position: absolute;
   top: 20px;
   padding: 0;
-  background: #2cdfd3;
+  background: orangered;
 }
 .widget ul.position-left {
   left: -26px;
@@ -87,11 +88,11 @@
   color: #fff;
   cursor: pointer;
   text-align: center;
-  border-bottom: 1px solid #2cd5ca;
+  border-bottom: 1px solid black;
   transition: background-color 0.3s;
 }
 .widget ul li:hover > a {
-  background-color: #2cd5ca;
+  background-color: limegreen;
 }
 .widget ul li:first-child > a {
   border-radius: 0 3px 0 0;
